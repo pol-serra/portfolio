@@ -1,10 +1,10 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "chAIss",
+    "imageSrc": "projects/chAIss.webp",
+    "description": "Development of AI-powered software leveraging LLMs and TTS to generate educational chess videos for chess enthusiasts to share on YouTube.",
+    "skills": ["Python", "AI", "Software"],
+    "demo": "https://www.youtube.com/@ch_AI_ss",
     "source": "https://www.github.com"
   },
   {
@@ -12,15 +12,20 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Ant Tracking",
+    "imageSrc": "projects/ant_tracking.png",
+    "description": "Computer vision tool for ant detection and tracking",
+    "skills": ["ComputerVision", "DeepLearning", "AI"],
+    "source": "https://github.com/imatge-upc/AntTracking/tree/Pol"
+  },
+  {
+    "title": "TracksCO2",
+    "imageSrc": "projects/tracksco2_.png",
+    "description": "WebAplication that computes CO2 indices by satelite images",
+    "skills": ["ComputerVision", "AI", "WebApp"],
+    "source": "https://github.com/danivilardell/PAE_track_CO2"
   }
 ]

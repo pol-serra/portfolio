@@ -17,30 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>AI Researcher</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm focused on the research for Automated Speech Recognition topic. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>AI Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have experience developing AI products, such as LLM prompt based content creation or Computer Vision solutions. 
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>PowerPlatform developer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Experience devoloping IT solutions to buisness process using PowerPlatform technology. Also reporting data analytics with PowerBI.
               </p>
             </div>
           </li>

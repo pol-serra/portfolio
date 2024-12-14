@@ -1,10 +1,14 @@
 :root {
   /* Colours */
-  --color-text: #fff;
-  --color-primary: #576cbc;
+  --color-text: #F2F1EC;
+  /* --color-primary: #576cbc;
   --color-secondary: #19376d;
   --color-dark: #0b2447;
-  --color-bg: #04152d;
+  --color-bg: #04152d; */
+  --color-primary: #4B7684; /* Verde ligeramente más claro */
+  --color-secondary: #2D4D58; /* Verde más oscuro */
+  --color-dark: #1B2F36; /* Verde oscuro profundo */
+  --color-bg: #0E191E; /* Fondo más cercano al verde base */
 
   /* Fonts */
   --font-roboto: "Roboto";
