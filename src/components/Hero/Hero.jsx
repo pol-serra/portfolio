@@ -9,10 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Pol</h1>
         <p className={styles.description}>
-          I'm a AI developer finishing my Master sudies on Deep Learning for Multimedia processing. I have experience also in 
-          PowerPlatform developments.
+        I am an AI developer currently completing my Master's studies in Deep Learning for Multimedia Processing. Additionally, I possess expertise in Power Platform development, including Azure, Power BI, Power Apps and PowerAutomate.
         </p>
-        <a href="pol.serra.montes@gmail.com" className={styles.contactBtn}>
+        <a href="mailtto:pol.serra.montes@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
