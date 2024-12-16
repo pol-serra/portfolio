@@ -13,7 +13,7 @@
     "description": "Computer vision tool for ant detection and tracking",
     "skills": ["ComputerVision", "DeepLearning", "AI"],
     "source": "https://github.com/imatge-upc/AntTracking/tree/Pol",
-    "doc": "../../../assets/projects/AntTracking_Final Report.pdf"
+    "doc": "../../../assets/projects/AntTracking_memoria_prov.pdf"
   },
   {
     "title": "TracksCO2",
