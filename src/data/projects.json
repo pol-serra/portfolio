@@ -21,5 +21,13 @@
     "description": "WebAplication that computes CO2 indices by satelite images",
     "skills": ["ComputerVision", "AI", "WebApp"],
     "source": "https://github.com/danivilardell/PAE_track_CO2"
+  },
+  {
+    "title": "RAG for chess eplanation",
+    "imageSrc": "projects/rag.png",
+    "description": "Exploring the Limits of Retrieval-Augmented Generation (RAG) with Gemini and SentenceTransformers",
+    "skills": ["RAG", "LLM", "NLP"],
+    "source": "https://github.com/pol-serra/chess_RAG"
   }
+
 ]
